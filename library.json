@@ -9,8 +9,8 @@
             "email" : "yarllei.silva@edu.senai.br"
         }
     ] ,
-    "Lincense" :"MIT",
-    "frameworks" :["arquivo"],
+    "license" :"MIT",
+    "frameworks" :["arduino"],
     "platforms" : ["*"],
     "headers" : ["LED.h"]
 }
